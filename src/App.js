@@ -6,7 +6,7 @@ function App() {
       <h1>My Todos</h1>
       <Todo text='Learn React' />
       <Todo text='Read your book' />
-      <Todo text='Live a happier life!!!' />
+      <Todo text='Start writing your first book' />
     </div>
   )
 }
